@@ -5,4 +5,4 @@ In December 2022 Radio Thermostat Company of America announced "On May 15, 2023,
 
 Version 1.1 adds option for Celsius or Fahrenheit.
 
-Version 1.2 adds option to sync Thermostat time to phone time.
+Version 1.2 adds option to sync Thermostat time to phone time and give a finer control of input Celsius values.
